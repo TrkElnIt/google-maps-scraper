@@ -6,7 +6,7 @@ This project is a browser automation and data extraction system for building str
 
 The scraper collects visible business listing data, normalizes inconsistent listing text, and exports clean CSV or JSON records that can be reviewed, filtered, enriched, or imported into a CRM workflow.
 
-Technically, the project uses Playwright to load and scroll Google Maps search results, BeautifulSoup to parse listing and detail HTML, deterministic fallback rules for rating/review/address/phone/hour extraction, optional Ollama local LLM cleanup for strict JSON output, and an optional website enrichment step for linked business websites.
+Technically, the project uses Playwright to load and scroll Google Maps search results, BeautifulSoup to parse listing and detail HTML, Requests for local LLM and website-enrichment HTTP calls, Pandas for CSV output, deterministic fallback rules for rating/review/address/phone/hour extraction, optional Ollama local LLM cleanup for strict JSON output, and an optional website enrichment step for linked business websites.
 
 ## Problem
 
