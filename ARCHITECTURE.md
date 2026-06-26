@@ -79,11 +79,10 @@ Typical normalized record:
 
 The system can be extended with:
 
-- PostgreSQL storage
+- Database storage
 - Deduplication by phone, website, or business name
 - CRM import jobs
 - Lead scoring by rating, review volume, category, and website quality
 - Scheduled research runs
 - Dashboard review workflow
 - Portfolio assistant retrieval from sanitized project docs
-
