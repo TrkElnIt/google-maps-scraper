@@ -39,6 +39,13 @@ Enhanced with OpenAI GPT-4.0 for parsing unstructured listing content into clean
 
 ---
 
+## Portfolio Notes
+
+- [Case study](CASE_STUDY.md)
+- [Architecture](ARCHITECTURE.md)
+
+---
+
 ## 🔐 Access
 
 🔒 Source code is private.  
@@ -49,5 +56,4 @@ This repository provides a public overview of the scraper’s functionality and 
 ## 🧑‍💻 Author
 
 **TrkElnIt** – AI-enhanced automation & data extraction tools  
-
 
